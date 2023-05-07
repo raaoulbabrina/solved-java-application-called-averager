@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-java-application-called-averager
+<br>
+Java application called “Averager” (without the quotation marks) to get positive integers (i.e., any integer greater than 0) from the user, each preceded with a suitable data entry prompt, until the user enters -1 (the sentinel). Use a do-while loop. Compute the average of the series of integers and print the average. Be sure to format the average with two decimal positions. Don’t include the sentinel in calculation of the average. Include suitable data validations for invalid data (e.g. the user enters a letter instead of an integer), but stay in the loop until the sentinel is entered.
